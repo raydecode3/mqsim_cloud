@@ -1,0 +1,48 @@
+baseURL: "https://raydeocde3.github.io/mqsim-cloud/"
+languageCode: "en-us"
+title: "MQSim Cloud"
+theme: "PaperMod"
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production
+  title: "MQSim Cloud"
+  description: "Master NVMe SSD Firmware without the setup pain."
+  keywords: [MQSim, SSD Simulator, NVMe, FTL, Storage, Course]
+  author: "Raymond"
+  defaultTheme: dark
+
+  # --- Landing Page 核心設定 ---
+  profileMode:
+    enabled: true
+    title: "🚀 MQSim Cloud"
+    subtitle: "Stop debugging the simulator. Start learning the Firmware."
+    imageWidth: 120
+    imageHeight: 120
+
+    buttons:
+      - name: "👉 Start Free Simulation"
+        url: "https://docs.google.com/forms/d/e/1FAIpQLSf9w6KPYZqTEEohwgUrz6F2fVdP82stGdcmHGqlOxNsN0ZfMQ/viewform?usp=publish-editor"
+      - name: "Read the Manifesto"
+        url: "/posts/manifesto"
+
+  socialIcons:
+    - name: linkedin
+      url: "https://linkedin.com/in/your-linkedin"
+    - name: github
+      url: "https://github.com/your-github"
+
+menu:
+  main:
+    - identifier: manifesto
+      name: Why I Built This
+      url: /posts/manifesto/
+      weight: 10
