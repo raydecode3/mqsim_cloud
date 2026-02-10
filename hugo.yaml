@@ -19,27 +19,11 @@ params:
   keywords: [MQSim, SSD Simulator, NVMe, FTL]
   author: "Raymond"
   defaultTheme: dark
+  
+  mainSections: []
 
-  profileMode:
-    enabled: true
-    title: "MQSim Cloud"
-    subtitle: "The First Cloud-Based Lab for\nSSD Firmware Architects."
-    imageUrl: "mqsim-hero.png"
-    imageWidth: 300
-    imageHeight: 300
-    
-    buttons:
-      - name: "🚀 Request Beta Access"
-        url: "https://docs.google.com/forms/d/e/1FAIpQLSf9w6KPYZqTEEohwgUrz6F2fVdP82stGdcmHGqlOxNsN0ZfMQ/viewform"
 
   socialIcons:
     - name: linkedin
       url: "https://www.linkedin.com/in/ray-chang-379385a2/"
 
-menu:
-  main:
-    - identifier: manifesto
-      name: "Read the Manifesto"
-      url: "/posts/manifesto"
-      pageRef: "posts/manifesto.md"
-      weight: 10
