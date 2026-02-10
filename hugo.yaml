@@ -18,21 +18,19 @@ params:
   description: "Master NVMe SSD Firmware without the setup pain."
   keywords: [MQSim, SSD Simulator, NVMe, FTL]
   author: "Raymond"
-  defaultTheme: dark  <-- 強制黑底，更有駭客感
+  defaultTheme: dark
 
   profileMode:
     enabled: true
     title: "MQSim Cloud"
     subtitle: "The First Cloud-Based Lab for\nSSD Firmware Architects."
     imageUrl: "mqsim-hero.png"
-    imageWidth: 200
-    imageHeight: 200
+    imageWidth: 300
+    imageHeight: 300
     
     buttons:
       - name: "🚀 Request Beta Access"
         url: "https://docs.google.com/forms/d/e/1FAIpQLSf9w6KPYZqTEEohwgUrz6F2fVdP82stGdcmHGqlOxNsN0ZfMQ/viewform"
-      - name: "Read Why I Built This"
-        url: "/posts/manifesto"
 
   socialIcons:
     - name: linkedin
