@@ -2,7 +2,7 @@
 title: "Stop Debugging the Environment. Start Designing the FTL."
 date: 2026-02-10
 description: "Why I built a cloud lab for SSD Firmware Engineers. It's time to stop being a plumber and start being an architect."
-tags: ["Manifesto", "MQSim", "Firmware", "NVMe"]
+tags: ["MQSim", "Firmware", "NVMe"]
 showToc: true
 ---
 
