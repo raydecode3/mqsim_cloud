@@ -70,7 +70,7 @@ In exchange, I will give you:
 
 **Ready to reclaim your time?**
 
-👉 **[Click Here to Request Early Access](https://forms.gle/您的Google表單連結)**
+👉 **[Click Here to Request Early Access](https://docs.google.com/forms/d/e/1FAIpQLSf9w6KPYZqTEEohwgUrz6F2fVdP82stGdcmHGqlOxNsN0ZfMQ/viewform?usp=publish-editor)**
 
 *(Beta access is currently free, but server capacity is limited.)*
 

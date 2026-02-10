@@ -38,6 +38,7 @@ params:
 menu:
   main:
     - identifier: manifesto
-      name: Why I Built This
-      url: /posts/manifesto/
+      name: "Read the Manifesto"
+      url: "/posts/manifesto"
+      pageRef: "/posts/manifesto"
       weight: 10
