@@ -40,5 +40,5 @@ menu:
     - identifier: manifesto
       name: "Read the Manifesto"
       url: "/posts/manifesto"
-      pageRef: "/posts/manifesto"
+      pageRef: "posts/manifesto.md"
       weight: 10
